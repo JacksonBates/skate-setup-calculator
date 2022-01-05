@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/skate-setup-calculator/static/css/main.d1b05096.chunk.css",
+    "main.js": "/skate-setup-calculator/static/js/main.766824d5.chunk.js",
+    "main.js.map": "/skate-setup-calculator/static/js/main.766824d5.chunk.js.map",
+    "runtime-main.js": "/skate-setup-calculator/static/js/runtime-main.0bbc664a.js",
+    "runtime-main.js.map": "/skate-setup-calculator/static/js/runtime-main.0bbc664a.js.map",
+    "static/css/2.291b88e4.chunk.css": "/skate-setup-calculator/static/css/2.291b88e4.chunk.css",
+    "static/js/2.57485a89.chunk.js": "/skate-setup-calculator/static/js/2.57485a89.chunk.js",
+    "static/js/2.57485a89.chunk.js.map": "/skate-setup-calculator/static/js/2.57485a89.chunk.js.map",
+    "index.html": "/skate-setup-calculator/index.html",
+    "precache-manifest.7d8482b008e5779e730c69aeffbff91f.js": "/skate-setup-calculator/precache-manifest.7d8482b008e5779e730c69aeffbff91f.js",
+    "service-worker.js": "/skate-setup-calculator/service-worker.js",
+    "static/css/2.291b88e4.chunk.css.map": "/skate-setup-calculator/static/css/2.291b88e4.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/skate-setup-calculator/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.57485a89.chunk.js.LICENSE.txt": "/skate-setup-calculator/static/js/2.57485a89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bbc664a.js",
+    "static/css/2.291b88e4.chunk.css",
+    "static/js/2.57485a89.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.766824d5.chunk.js"
+  ]
+}
