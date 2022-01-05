@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/skate-setup-calculator/precache-manifest.7d8482b008e5779e730c69aeffbff91f.js"
+  "/skate-setup-calculator/precache-manifest.7db9881725eb544adcd5a48b1427615b.js"
 );
 
 self.addEventListener('message', (event) => {
